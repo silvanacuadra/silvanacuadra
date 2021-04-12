@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hola, soy Silvana! 👋
 
 <!--
 **silvanacuadra/silvanacuadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy Ingeniera Ambiental :deciduous_tree: y QA Tester :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En la actualidad, busco introducirme en la industria IT ya que me parece un área muy interesante y con un gran potencial de crecimiento. Es por ello, que realicé un curso orientado a la calidad de software y actualmente estoy estudiando Diseño Web. Tengo conocimientos en HTML, CSS, SASS, JavaScript y en base de datos MySQL. 
+
+Estoy en búsqueda de mi primera oportunidad laboral en el área.
+
+## Contacto
+
+Podes enviarme un mensaje a través de estas redes :mailbox: : 
+
+- silvanagcuadra@yahoo.com.ar
+- [LinkedIn](https://www.linkedin.com/in/silvanacuadra/)
