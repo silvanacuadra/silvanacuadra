@@ -10,7 +10,7 @@ Estoy en búsqueda de mi primera oportunidad laboral en el área.
 
 Podes enviarme un mensaje a través de estas redes :mailbox: : 
 
-- silvanagcuadra@yahoo.com.ar
+- silvanagcuadra@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/silvanacuadra/)
 
 <!--
